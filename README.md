@@ -1,5 +1,5 @@
-# techdegree-project-4
-## OOP Game Show App Completed 10 months ago
+# OOP Game Show App
+## Techdegree Project 4
 
 Live Version:  https://simonfeu.github.io/techdegree-project-4/
 
